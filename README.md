@@ -1,3 +1,6 @@
+![image](https://github.com/Freya-Ebba-Christ/Image-Denoising-using-Keras/assets/57752514/748c93c1-e21b-4e8a-ac55-b25f0d28fdce)
+<br>
+
 # Image-Denoising-using-Keras
 
 The file contains and implementations of
